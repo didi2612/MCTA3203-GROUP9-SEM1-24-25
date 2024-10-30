@@ -19,3 +19,9 @@ Our group is committed to exploring innovative solutions and integrating knowled
 We look forward to your feedback and support throughout this academic endeavor.<br>
 Thank you for being part of our learning journey!<br>
 <hr>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Profile" />
+  </a>
+</p>
