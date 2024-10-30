@@ -10,7 +10,14 @@
 </p>
 
 <br>
+## 👋 Team Members!<br>
+1. AZMI BIN BASHARUDIN 2211387 <br>
+2. HAMZAH FAISAL 2219537<br>
+3. KHAIRULDDIN BIN ZULKIFLEI 2210527<br>
+4. MUHAMAD IZZUDIN BIN MUHAMAD 2219735<br>
+5. MUHAMMAD AIMAN BIN MOHD RODZI 2118813<br>
 
+<br>
 ## 👋 Hello, Dr!<br>
 
 Welcome to our Group GitHub! We are Group 9, and we are pleased to have you here.<br>
@@ -19,6 +26,8 @@ Our group is committed to exploring innovative solutions and integrating knowled
 We look forward to your feedback and support throughout this academic endeavor.<br>
 Thank you for being part of our learning journey!<br>
 <hr>
+
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312sckq4hebyervf4utsjawou4hm&redirect=true">
